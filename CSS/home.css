@@ -1,0 +1,105 @@
+.image{
+padding-left: 430px;
+padding-top: 150px;
+}
+.image img{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}
+.wrap{
+    background: rgb(32,33,36);
+background: linear-gradient(180deg, rgba(32,33,36,1) 0%, rgba(179,179,179,1) 66%);
+background-repeat: no-repeat;
+}
+
+.name{
+        position: absolute;
+        top:90px;
+        font-family: Cinzel;
+        font-size: 90px;
+        left: 17%;
+        color: rgb(13, 14, 16);
+        -webkit-text-stroke: .5px rgb(73, 71, 71);
+        
+
+margin-top: 0%;
+}
+.container {
+    position: relative;
+    top:30%;
+
+  }
+.text{
+    padding-top: 20px;
+    background: rgb(130,123,123);
+background: linear-gradient(180deg, rgb(170, 165, 165) 0%, rgba(32,33,36,1) 97%);
+}
+.text p{
+    font-family: Space Mono;
+    font-size: 50px;
+    color: white;
+    -webkit-text-stroke: .5px rgb(73, 71, 71);
+}
+
+#btn{
+
+   border: 1px rgb(92, 85, 85);
+
+
+    /* Define a linear gradient background */
+    background: linear-gradient(to bottom, #141414, #909192);
+  
+    /* Add other button styles */
+   
+    font-size: 30px;
+    font-family: cinzel;
+  }
+
+.button{
+    padding-top: 80px;
+    padding-left: 365px;
+}
+.spin{
+    padding-left: 500px;
+}
+body{
+    background: rgb(32,33,36);
+    background: linear-gradient(180deg, rgba(32,33,36,1) 0%, rgba(179,179,179,1) 66%);
+}
+.web{
+   padding-left: 500px;
+   color: rgb(7, 6, 6);
+   font-size: 25px;
+   /* background-color: aqua; */
+   height: 300px;
+   margin-bottom: -350px;
+   padding-top: 15px;
+   font-family: Merriweather;
+   -webkit-text-stroke: .5px rgb(34, 33, 33);
+   
+   
+
+}
+.button button{
+border-radius: 0%;
+border: 1px rgb(92, 85, 85);
+
+
+/* Define a linear gradient background */
+background: linear-gradient(to bottom, #141414, #909192);
+
+/* Add other button styles */
+
+font-size: 30px;
+font-family: cinzel;
+}
+#btn1{
+    border-top-left-radius:8px ;
+    border-bottom-left-radius: 8px;
+    
+}
+#btn2{
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}

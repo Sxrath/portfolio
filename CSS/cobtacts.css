@@ -1,0 +1,23 @@
+.QR img{
+    height: 500px;
+    width: 500px;
+    padding-left: 450px;
+    padding-top: 20px;
+}
+.scan{
+    padding-left: 300px;
+    font-size: 40px;
+    font-family:  cinzel;
+}
+.connect{
+    padding-left: 300px;
+    font-size: 40px;
+    font-family:  cinzel;
+    padding-top: 20px;
+    padding-left: 540px;
+}
+body{
+    background: rgb(95,97,102);
+    background: linear-gradient(180deg, rgb(119, 121, 124) 13%, rgb(229, 218, 218) 76%);
+    background-repeat: no-repeat;
+}

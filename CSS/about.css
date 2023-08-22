@@ -1,0 +1,47 @@
+
+body p{
+    font-size: 25px;
+    font-family: poppins;
+    padding-left: 20px;
+}
+h3{
+    font-family: cinzel;
+    font-size: 30px;
+    padding-left: 570px;
+    color:rgb(27, 23, 23);
+}
+body{
+    background: rgb(95,97,102);
+    background: linear-gradient(180deg, rgb(119, 121, 124) 13%, rgb(229, 218, 218) 76%);
+    background-repeat: no-repeat;
+}
+.button button{
+    border-radius: 0%;
+    border: 1px rgb(92, 85, 85);
+    
+    
+    /* Define a linear gradient background */
+    background: linear-gradient(to bottom, #141414, #909192);
+    
+    /* Add other button styles */
+    
+    font-size: 30px;
+    font-family: cinzel;
+    }
+    #btn1{
+        border-top-left-radius:8px ;
+        border-bottom-left-radius: 8px;
+        
+    }
+    #btn2{
+        border-top-right-radius: 8px;
+        border-bottom-right-radius: 8px;
+    }
+    .button{
+        padding-left: 400px;
+        padding-top: 80px;
+    }
+    h5{
+        font-family: cinzel ;
+        font-weight: 50px;
+    }
